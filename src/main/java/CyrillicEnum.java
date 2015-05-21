@@ -5,7 +5,7 @@ import org.openqa.selenium.By;
  */
 public enum CyrillicEnum {
 
-    VALUEA(By.linkText("Б"),"Ъ"), VALUEG(By.linkText("Г"), "Ц");
+    VALUEA(By.linkText("G"),"H"), VALUEG(By.linkText("Q"), "z");
 
 
     private By literal;
