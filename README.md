@@ -1,2 +1,2 @@
 # qdox-bug
-Project reproduces issue https://github.com/paul-hammant/qdox/issues/1
+Project reproduces issue https://github.com/paul-hammant/qdox/issues/31
